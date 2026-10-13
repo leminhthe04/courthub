@@ -1,7 +1,7 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/leminhthe04/courthub-backend.git
 
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/leminhthe04/courthub-frontend.git
